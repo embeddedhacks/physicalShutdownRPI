@@ -1,7 +1,7 @@
 physicalShutdownRPI
 ===================
 
-A Physical Button To Shutdown Button For raspberry pi B.
+A Physical Shutdown Button For raspberry pi B.
 
 Download the code.
 
