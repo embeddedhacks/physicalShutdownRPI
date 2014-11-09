@@ -10,6 +10,5 @@ while True:
 
         GPIO.wait_for_edge(23, GPIO.RISING)
 	subprocess.call(["sudo", "shutdown", "-h","now"])
-	#os.system('%s %s %s %s' %('sudo'+'shutdown'+'"-h"'+'"now"'))
         break
 
