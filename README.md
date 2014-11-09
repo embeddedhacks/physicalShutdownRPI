@@ -22,7 +22,7 @@ Power one th RPI again. Push tht shutdown to halt the system.
 Thanks
 
 Keep Visiting for more tutorials.
-www.embeddedhacks.in
+www.embeddedhacks.in 
 
 
 
